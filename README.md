@@ -34,3 +34,12 @@ else if (number1 < number2){
 else {
     print("Finally \(number1) is = \(number2)")
 }
+
+
+
+For store input try to use thoses links.
+https://developer.apple.com/documentation/uikit/text_storage
+https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/PersistData.html
+https://stackoverflow.com/questions/28628225/how-to-save-local-data-in-a-swift-app
+https://www.raywenderlich.com/145809/getting-started-core-data-tutorial
+https://github.com/DragonCherry/LocalStorage/blob/master/LocalStorage/Classes/LocalStorage.swift
