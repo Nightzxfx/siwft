@@ -1,0 +1,25 @@
+import Foundation
+
+class person {
+    var firstName: String = ""
+    var middleName: String = ""
+    var lasName: String = ""
+    var age: Int = 0
+    
+  /*  init (firstName: String, middleName: String, lastName: String, age: Int) {
+        self.firstName = "Paulo"
+        self.middleName = "n/a"
+        self.lasName = "Valadares"
+        self.age = 28
+    }
+    */
+    init () {
+        firstName = "Paulo"
+        middleName = "n/a"
+        lasName = "Valadares"
+        age = 28
+    }
+}
+func returnName (firstName: String) -> String {
+     return firstName
+}
