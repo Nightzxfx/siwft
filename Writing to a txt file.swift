@@ -1,7 +1,9 @@
 import Cocoa
 
 class ViewController: NSViewController {
-
+    
+  @IBOutlet weak var translate: NSTextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -30,6 +32,8 @@ class ViewController: NSViewController {
         
         //Step#4 Your Content // Static or Dynamic
         let writeString = " Write this documment to the file after pressing the button"
+        //Save the content typed in the text
+        let writeString = String(describing: translate.stringValue)
         
         //#Error Handler
         do {
