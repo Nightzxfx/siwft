@@ -43,3 +43,6 @@ https://developer.apple.com/library/content/referencelibrary/GettingStarted/Deve
 https://stackoverflow.com/questions/28628225/how-to-save-local-data-in-a-swift-app
 https://www.raywenderlich.com/145809/getting-started-core-data-tutorial
 https://github.com/DragonCherry/LocalStorage/blob/master/LocalStorage/Classes/LocalStorage.swift
+
+
+https://swift3tutorials.com/swift-3-dictionaries/
